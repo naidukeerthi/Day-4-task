@@ -1,0 +1,46 @@
+#m1
+{
+   background-color: dimgray;
+   text-align: center;
+   padding:13px ;
+}
+#m1 a{
+    padding:10px ;
+}
+#header{
+    text-align: center;
+}
+#image{
+width:auto;
+height: auto;
+}
+#image img{
+   width: auto; 
+   height:auto;
+   float:left; 
+   margin-right:150px ;
+   padding-left:300px ;
+   margin-bottom:20%;
+}
+#image paragraph{
+    margin-left:100px ;
+    float:right;
+}
+#button button{
+    color: aliceblue;
+    background-color: orangered;
+    border: 0px;
+    padding-left: 20px;
+}
+.footer{
+    background-color: black;
+   
+}
+.footer p{
+    color: antiquewhite;
+    text-align:center;
+}
+.button2 button{
+    background-color: orangered;
+    color: antiquewhite;
+}
